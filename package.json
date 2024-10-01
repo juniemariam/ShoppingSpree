@@ -1,0 +1,49 @@
+{
+  "name": "shoppingspree",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^3.9.3",
+    "axios": "^0.18.0",
+    "firebase": "^5.9.4",
+    "firebase-admin": "^7.3.0",
+    "google-maps-react": "^2.0.2",
+    "material-ui": "^0.20.2",
+    "node-sass": "^4.11.0",
+    "push.js": "^1.0.9",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-google-maps": "^9.4.5",
+    "react-native": "^0.59.5",
+    "react-native-maps": "^0.24.2",
+    "react-native-maps-directions": "^1.6.0",
+    "react-native-permissions": "^1.1.1",
+    "react-redux": "^7.0.2",
+    "react-router": "^5.0.0",
+    "react-router-dom": "^5.0.0",
+    "react-scripts": "2.1.8",
+    "react-star-ratings": "^2.3.0",
+    "recompose": "^0.30.0",
+    "redux": "^4.0.1",
+    "redux-thunk": "^2.3.0",
+    "simple-web-notification": "^1.0.32"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "devDependencies": {
+    "@babel/plugin-proposal-class-properties": "^7.4.0"
+  }
+}
