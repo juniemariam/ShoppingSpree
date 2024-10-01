@@ -300,5 +300,5 @@ export class Geo extends Component {
 }
 
 export default GoogleApiWrapper({
-  apiKey: "AIzaSyDrN8PymBoXSe8fYVZ0BvSG9rLaP4o8kak"
+  apiKey: ""
 })(Geo);
