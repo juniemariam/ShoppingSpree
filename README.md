@@ -1,4 +1,4 @@
-# Shopping Spree Project
+# Shopping Spree: A Location Based Shopping Application
 ## Overview
 The Shopping Spree project is designed to enhance the online shopping experience by implementing advanced algorithms for product recommendation, user behavior analysis, and an intuitive user interface. This project aims to provide a seamless and engaging shopping environment.
 
