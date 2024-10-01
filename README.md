@@ -43,6 +43,8 @@ For more detailed insights into the methodologies and algorithms implemented in 
 
 Feel free to modify the sections based on the specific details from your project and the paper! If you provide more specific information, I can help you refine it further.
 
+## References
+For more detailed insights into the methodologies and algorithms implemented in this project, please refer to the research paper: [Shopping Spree: A Location Based Shopping Application](https://www.ijeat.org/wp-content/uploads/papers/v8i6/F8120088619.pdf)
 
 
 
