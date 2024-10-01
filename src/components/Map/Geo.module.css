@@ -1,0 +1,13 @@
+.Geo {
+    height: 40%;
+    width: 40%;
+    left: 300px;
+    margin: 10px auto;
+    background-color: white;
+    /* // box-sizing: border-box; */
+    display: inline-block;
+}
+
+.mapPlace {
+    text-align: center;
+}

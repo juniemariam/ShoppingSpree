@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css?family=Libre+Baskerville');
+.WishList {
+    margin-top: 56px;
+    border-bottom: 15px solid rgb(252, 189, 203);
+    font-family: 'Libre Baskerville', serif;
+    background-color: rgb(252, 189, 203);
+    /* background-image: white;  */
+}
